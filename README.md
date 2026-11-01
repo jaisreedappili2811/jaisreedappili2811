@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**jaisreedappili2811/jaisreedappili2811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Jaisree 👋
+B.Tech Student – Computer Science and Data Science
+Interested in Python Programming and Technology.
+Currently learning Python and improving my programming skills.
+Skills
+- Python
+- C
+- SQL
+Projects
+- Daily Attendance Tracker – Python
+About Me
+- Interested in learning new technologies.
+- Passionate about improving my technical skills.
+Thank you for visiting my profile! 😊
